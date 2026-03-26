@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "session_id": "e50693d7",
+    "generation_time": "2026-02-21T20:02:38.284514",
+    "total_criteria": 28,
+    "questions_asked": 0
+  },
+  "pqr_criteria": [
+    {
+      "criteria": "Vendor scope includes Design, Engineering, Supply, Installation, Testing, and commissioning of the Chiller-Based Air Dehumidification system.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: SCOPE OF WORK"
+      ]
+    },
+    {
+      "criteria": "Water Cooled Chillers: 2 units, each with 300 TR capacity.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: General"
+      ]
+    },
+    {
+      "criteria": "Chiller Compressor Type must be Screw Compressor.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.2 Water Cooled Chillers"
+      ]
+    },
+    {
+      "criteria": "Chiller Refrigerant must be R-134a, including the first charge.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.2 Water Cooled Chillers"
+      ]
+    },
+    {
+      "criteria": "Chiller Shell & Tube Evaporator and Condenser tubes must be made of SS 304.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.2 Water Cooled Chillers"
+      ]
+    },
+    {
+      "criteria": "Approved makes for Water Cooled Screw Chiller are Kirloskar, Kehem’s, or Train.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: Make of Bought out Items"
+      ]
+    },
+    {
+      "criteria": "Air Handling Unit (AHU) must be a Double Skin type with a supply air fan capacity of 53000 CFM.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.4 DOUBLE SKIN AIR HANDLING UNITS"
+      ]
+    },
+    {
+      "criteria": "AHU must achieve an outlet air temperature of 22°C +/- 2°C and relative humidity of 45% +/- 2%.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.4 DOUBLE SKIN AIR HANDLING UNITS"
+      ]
+    },
+    {
+      "criteria": "AHU cooling coil, casing, tubes, header, and drain pan must be made of SS 304. Fins must be plain aluminium.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.4 DOUBLE SKIN AIR HANDLING UNITS"
+      ]
+    },
+    {
+      "criteria": "AHU must be equipped with a plug fan with VFD and a pre-filter section with 10-micron filters.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.4 DOUBLE SKIN AIR HANDLING UNITS"
+      ]
+    },
+    {
+      "criteria": "Approved makes for the Air Handling Unit (AHU) are Edgetech, Citizen, Zeco, or System Air.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: Make of Bought out Items"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower must be an induced draft type with a circulation flow rate sufficient for a 760 TR refrigeration load.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.3 Cooling Tower"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower must be designed for a Wet Bulb Temperature of 29°C and a cooling tower outlet temperature of 33°C.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.3 Cooling Tower"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower basin, casing, and louvers must be made of FRP, with PVC for the fill and eliminator.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.3 Cooling Tower"
+      ]
+    },
+    {
+      "criteria": "A Chemical Dosing System for the Cooling Tower is required.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.31 Chemical Dosing system"
+      ]
+    },
+    {
+      "criteria": "Approved makes for the Cooling Tower are Advance cooling towers, Paharpur, Encon, Thermal care, or M square.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: Make of Bought out Items"
+      ]
+    },
+    {
+      "criteria": "Chilled Water and Condenser Water Pump sets must be provided in a 3-unit configuration (2 Working + 1 Standby) for each service.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.5 & 4.6 Pump Set"
+      ]
+    },
+    {
+      "criteria": "All pumps must be centrifugal type with mechanical seals, suitable for a 600 TR refrigeration load.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.5 & 4.6 Pump Set"
+      ]
+    },
+    {
+      "criteria": "Pump motors must be IE-3 efficiency class, TEFC, with Class F insulation.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.5 & 4.6 Pump Set"
+      ]
+    },
+    {
+      "criteria": "Pump materials of construction: Casing - Cast Iron, Impeller - Stainless Steel, Shaft - EN8.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: 4.5 & 4.6 Pump Set"
+      ]
+    },
+    {
+      "criteria": "Approved makes for Pumps are KSB, SULZER, KIRLOSKAR, WILO, WILFLEY, or GRUNDFOS.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: Make of Bought out Items"
+      ]
+    },
+    {
+      "criteria": "The electrical power supply at the site is 415 V +/- 10%, 50 Hz, 3 Phase, 4 Wire.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: BATTERY LIMIT DEFFINITION"
+      ]
+    },
+    {
+      "criteria": "The site area classification is Safe, dust-free, and non-hazardous; electrical equipment must be non-flameproof.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: General"
+      ]
+    },
+    {
+      "criteria": "Approved makes for the PLC are Allen Bradley, Honeywell, or Schneider.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: Make of Bought out Items"
+      ]
+    },
+    {
+      "criteria": "The project installation site is located at Plot- K1, Taloja MIDC Road, MH 410208.",
+      "required_documents": [],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: General"
+      ]
+    },
+    {
+      "criteria": "Client (MAL) will provide power and water for installation at one designated point.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: MAL Scope"
+      ]
+    },
+    {
+      "criteria": "Client (MAL) is responsible for obtaining all required permits for the job.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: MAL Scope"
+      ]
+    },
+    {
+      "criteria": "Vendor scope excludes OSBL (Outside Battery Limit) piping and electrical cable laying.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Section: MAL Scope"
+      ]
+    }
+  ]
+}

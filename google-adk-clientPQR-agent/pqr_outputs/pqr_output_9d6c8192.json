@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "session_id": "9d6c8192",
+    "generation_time": "2026-02-24T21:32:49.896892",
+    "total_criteria": 20,
+    "questions_asked": 0
+  },
+  "pqr_criteria": [
+    {
+      "criteria": "Construction of 3 Nos. RCC Digestor tanks (32m diameter x 8.25m height) using the slip form technique.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Table 1- TENTATIVE LIST OF STRUCTURES"
+      ]
+    },
+    {
+      "criteria": "Construction of 1 No. RCC LDT tank (11m diameter x 5m height) using the slip form technique.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Table 1- TENTATIVE LIST OF STRUCTURES"
+      ]
+    },
+    {
+      "criteria": "Reinforcement steel must be TMT Fe 500D grade.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "Annexure-1_IOCL Projects - ITP Civil - Rev 0 - 29th March 24-signed.pdf, Section: Definitions and Abbreviations"
+      ]
+    },
+    {
+      "criteria": "The make of the reinforcement steel requires prior approval from the client.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IOCL JIND BOQ.xlsx, Section: General"
+      ]
+    },
+    {
+      "criteria": "Concrete must be machine batched, machine mixed, and design mix. Admixtures must conform to IS 9103.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IOCL JIND BOQ.xlsx, Section: General"
+      ]
+    },
+    {
+      "criteria": "Concrete mix design for all grades (M15, M20, M25, M30) must be conducted by the contractor at a NABL accredited lab.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Introduction:",
+        "Annexure-1_IOCL Projects - ITP Civil - Rev 0 - 29th March 24-signed.pdf, Section: Definitions and Abbreviations"
+      ]
+    },
+    {
+      "criteria": "M20 grade concrete for works up to plinth level must have a minimum cement content of 270 kg/cum.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IOCL JIND BOQ.xlsx, Section: General"
+      ]
+    },
+    {
+      "criteria": "Internal road (800m x 6m) must be constructed with Steel Fiber Reinforced Concrete (SFRC) M20 grade, 150mm thick.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Table 1- TENTATIVE LIST OF STRUCTURES"
+      ]
+    },
+    {
+      "criteria": "Internal drains must be constructed using RCC/Brickwork with non-pressure NP3 class RCC pipes.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Table 1- TENTATIVE LIST OF STRUCTURES",
+        "IOCL JIND BOQ.xlsx, Section: General"
+      ]
+    },
+    {
+      "criteria": "Contractor must have and use at least 02 Nos. of Boom Placers for casting the Digester and RCC Tanks.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Introduction:"
+      ]
+    },
+    {
+      "criteria": "All civil works must be executed in strict compliance with relevant IS standards (including IS:456, IS:516, IS:10262) and CPWD specifications.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Introduction:"
+      ]
+    },
+    {
+      "criteria": "Contractor is responsible for conducting material tests like Slump cone test, compressive test, and sieve analysis at their own cost.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Introduction:"
+      ]
+    },
+    {
+      "criteria": "For each concrete mix, a minimum of 6 cubes must be tested for compression strength (3 at 7 days, 3 at 28 days).",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "Annexure-1_IOCL Projects - ITP Civil - Rev 0 - 29th March 24-signed.pdf, Section: Definitions and Abbreviations"
+      ]
+    },
+    {
+      "criteria": "Bidder must have adequate experience and be well-established in executing similar civil construction works of comparable magnitude.",
+      "required_documents": [
+        "po_document",
+        "project_image",
+        "project_list"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Introduction:"
+      ]
+    },
+    {
+      "criteria": "The CVs of the proposed Project Manager, Civil Site Engineer, and QC Inspector must be submitted for review and approval by GPSR before deployment.",
+      "required_documents": [
+        "welder_list",
+        "man_power_split"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Table 3- LIST OF PLANT & MACHINERY"
+      ]
+    },
+    {
+      "criteria": "Contractor must cover all workers and staff under the ESI & PF scheme and comply with all local statutory laws.",
+      "required_documents": [
+        "license_copy",
+        "pan",
+        "gst_registration"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Table 3- LIST OF PLANT & MACHINERY"
+      ]
+    },
+    {
+      "criteria": "Contractor must obtain a minimum amount of third-party liability insurance and workmen compensation insurance.",
+      "required_documents": [
+        "license_copy",
+        "pan",
+        "gst_registration"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Table 3- LIST OF PLANT & MACHINERY"
+      ]
+    },
+    {
+      "criteria": "Contractor must adhere to the Health, Safety & Environment (HSE) policy as issued by GPS Renewables (Refer to Annexure-2).",
+      "required_documents": [
+        "license_copy",
+        "pan",
+        "gst_registration"
+      ],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: SECTION-I- GENERAL INSTRUCTION/ QUALITY/ MATERIAL/ HSE"
+      ]
+    },
+    {
+      "criteria": "The project location is Jind.",
+      "required_documents": [],
+      "references": [
+        "IGRPL_PS_JIN_01-00-RFP-Civil construction.pdf, Section: Introduction:"
+      ]
+    },
+    {
+      "criteria": "TMT Bar and Fiber Steel are excluded from the contractor's scope of supply and will be provided by the client as free-issue material.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "Annexure_3-GPS-CBG-15TPD-CIVIL-DOR.pdf, Section: General"
+      ]
+    }
+  ]
+}

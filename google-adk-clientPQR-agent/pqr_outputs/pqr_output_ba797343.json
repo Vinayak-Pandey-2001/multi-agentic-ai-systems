@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "session_id": "ba797343",
+    "generation_time": "2026-02-08T22:14:41.590477",
+    "total_criteria": 8,
+    "questions_asked": 0
+  },
+  "pqr_criteria": [
+    {
+      "criteria": "The bidder must have an average annual turnover of at least INR 50 Crores for the last three financial years.",
+      "required_documents": [
+        "itr_or_ca_certificate"
+      ],
+      "references": [
+        "Section 3.2.1, Page 12"
+      ]
+    },
+    {
+      "criteria": "The bidder must be an original equipment manufacturer (OEM) or an authorized dealer of the tendered items.",
+      "required_documents": [
+        "incorporation_certificate"
+      ],
+      "references": [
+        "Section 2.1, Page 8"
+      ]
+    },
+    {
+      "criteria": "The supplied transformers must comply with IS 2026 and IEC 60076 standards.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "Technical Specifications, Annexure A, Page 25"
+      ]
+    },
+    {
+      "criteria": "The bidder's manufacturing facility must be located within 200 km of the delivery site in Bangalore.",
+      "required_documents": [],
+      "references": [
+        "Section 4.5, Page 18"
+      ]
+    },
+    {
+      "criteria": "The bidder must not have been blacklisted by any government entity in the last 5 years.",
+      "required_documents": [
+        "client_list"
+      ],
+      "references": [
+        "Eligibility Criteria, Section 2.5, Page 9"
+      ]
+    },
+    {
+      "criteria": "The bidder must have experience in successfully completing at least three similar projects of value not less than INR 20 Crores each in the last five years.",
+      "required_documents": [
+        "po_document",
+        "project_image",
+        "project_list"
+      ],
+      "references": [
+        "Section 3.3, Page 13"
+      ]
+    },
+    {
+      "criteria": "The net worth of the bidder should be positive for the last three financial years.",
+      "required_documents": [
+        "financial_statements"
+      ],
+      "references": [
+        "Section 3.2.2, Page 12"
+      ]
+    },
+    {
+      "criteria": "The product must have ISO 9001:2015 certification for quality management.",
+      "required_documents": [
+        "product_image"
+      ],
+      "references": [
+        "Technical Specifications, Annexure A, Page 26"
+      ]
+    }
+  ]
+}

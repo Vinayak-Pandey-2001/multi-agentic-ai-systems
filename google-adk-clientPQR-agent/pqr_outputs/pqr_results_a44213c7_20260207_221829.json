@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "session_id": "a44213c7",
+    "generation_time": "2026-02-07T22:18:29.566635",
+    "total_criteria": 9,
+    "questions_asked": 0
+  },
+  "pqr_criteria": [
+    {
+      "criteria": "The vendor must have an annual turnover of at least $10 million for the last three financial years.",
+      "required_documents": [
+        "itr_or_ca_certificate"
+      ],
+      "references": [
+        "Source: RFQ_Doc_A.pdf, Section: Financial Requirements, Score: 0.95"
+      ]
+    },
+    {
+      "criteria": "Minimum 5 years of experience in similar projects.",
+      "required_documents": [
+        "po_document",
+        "project_image",
+        "project_list"
+      ],
+      "references": [
+        "Source: RFQ_Doc_A.pdf, Section: Project Experience, Score: 0.90"
+      ]
+    },
+    {
+      "criteria": "Valid ISO 9001:2015 certification is mandatory.",
+      "required_documents": [
+        "license_copy"
+      ],
+      "references": [
+        "Source: RFQ_Doc_B.pdf, Section: Quality Assurance, Score: 0.88"
+      ]
+    },
+    {
+      "criteria": "Must possess a manufacturing facility with a minimum capacity of 1000 units/day.",
+      "required_documents": [
+        "manufacturing_capacity_details"
+      ],
+      "references": [
+        "Source: RFQ_Doc_C.pdf, Section: Production Capability, Score: 0.92"
+      ]
+    },
+    {
+      "criteria": "Should have a minimum net worth of $5 million as per the latest audited financial statements.",
+      "required_documents": [
+        "financial_statements"
+      ],
+      "references": [
+        "Source: RFQ_Doc_A.pdf, Section: Financial Stability, Score: 0.93"
+      ]
+    },
+    {
+      "criteria": "Proof of legal entity registration in the country of operation.",
+      "required_documents": [
+        "incorporation_certificate"
+      ],
+      "references": [
+        "Source: RFQ_Doc_D.pdf, Section: Legal Requirements, Score: 0.85"
+      ]
+    },
+    {
+      "criteria": "Capability to provide technical support 24/7.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ_Doc_E.pdf, Section: Support Services, Score: 0.89"
+      ]
+    },
+    {
+      "criteria": "Compliance with all local tax regulations and submission of latest tax clearance certificate.",
+      "required_documents": [
+        "gst_registration"
+      ],
+      "references": [
+        "Source: RFQ_Doc_F.pdf, Section: Regulatory Compliance, Score: 0.91"
+      ]
+    },
+    {
+      "criteria": "Successful completion of at least 3 projects of similar scope in the last 2 years.",
+      "required_documents": [
+        "list_of_projects_completed"
+      ],
+      "references": [
+        "Source: RFQ_Doc_A.pdf, Section: Past Project Performance, Score: 0.94"
+      ]
+    }
+  ]
+}

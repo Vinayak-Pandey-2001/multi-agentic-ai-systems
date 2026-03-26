@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "session_id": "8677fc39",
+    "generation_time": "2026-02-08T19:03:54.130848",
+    "total_criteria": 25,
+    "questions_asked": 0
+  },
+  "pqr_criteria": [
+    {
+      "criteria": "Vendor to provide separate cost for operating the unit for 1 year.",
+      "required_documents": [
+        "commercial_techno_commercial_quotation"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ]
+    },
+    {
+      "criteria": "The complete scope includes Design, Engineering, Supply, Installation, Testing, and commissioning of a Chiller-Based Air Dehumidification system.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3929"
+      ]
+    },
+    {
+      "criteria": "Cooling air must be delivered at 22 deg C and 45% RH to maintain the final product temperature.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4444"
+      ]
+    },
+    {
+      "criteria": "Provide 2 working Water Cooled Chillers, each 300 TR, for a total of 600 TR refrigeration load.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3929"
+      ]
+    },
+    {
+      "criteria": "Chiller compressor type must be Screw Compressor.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "Chiller refrigerant must be R-134a, including the first charge of refrigerant and oil.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "Chiller evaporator and condenser must be Shell & Tube type with SS 304 Tubes.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "Layout must provide space for a future 3rd spare chiller.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.2159"
+      ]
+    },
+    {
+      "criteria": "Provide 1 induced draft Cooling Tower designed for 760 TR refrigeration load.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower must be constructed of FRP (Basin, Casing, Louvers) with PVC Fill and Eliminator.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower must be designed for a Wet Bulb Temperature of 29 Deg. C and provide a tower outlet temperature of 33 Deg. C.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower fan must be equipped with a VFD.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "A chemical dosing system for the Cooling Tower is required.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "Provide 1 Double Skin Air Handling Unit (AHU) with a supply air fan capacity of 53000 CFM.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "AHU must deliver outlet air at 22+/-2 DegC with 45+/-2% Relative Humidity.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "AHU must include a pre-filter section with 10-micron filters and a plug fan with VFD.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "AHU cooling coil, casing, tubes, and header must be SS 304 with plain aluminum fins. Drain pan must be SS 304.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4167"
+      ]
+    },
+    {
+      "criteria": "Provide 3 Chilled Water Pumps (2 Working + 1 Standby) and 3 Condenser Water Pumps (2W+1S), each suitable for 600 TR load.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.6000"
+      ]
+    },
+    {
+      "criteria": "Pump motors must be IE-3, TEFC sq. cage induction, class F.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.6000"
+      ]
+    },
+    {
+      "criteria": "Pump material of construction: Casing - Cast Iron, Impeller - SS, Shaft - EN8.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.6000"
+      ]
+    },
+    {
+      "criteria": "Vendor must provide engineering deliverables including PFD, P&ID, HAZOP, civil drawings, and equipment/material specifications.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.6667"
+      ]
+    },
+    {
+      "criteria": "Vendor must supply commissioning spares.",
+      "required_documents": [
+        "product_image"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.2159"
+      ]
+    },
+    {
+      "criteria": "Vendor must provide a list of 2 Years maintenance spares.",
+      "required_documents": [
+        "product_image"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.2159"
+      ]
+    },
+    {
+      "criteria": "Electrical power supply will be 415 V / 50 Hz / 3 Ph.",
+      "required_documents": [
+        "product_catalogue"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3929"
+      ]
+    },
+    {
+      "criteria": "Components must be from the list of approved makes (e.g., Valves: L&T, KSB; PLC: Allen Bradley/Honeywell/Schneider; Cables: Polycab, KEC).",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5000"
+      ]
+    }
+  ]
+}

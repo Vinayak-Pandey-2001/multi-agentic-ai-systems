@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../google_agent_adk"
+		}
+	],
+	"settings": {}
+}

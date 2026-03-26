@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "session_id": "2b8363e4",
+    "generation_time": "2026-02-08T22:23:57.664506",
+    "total_criteria": 26,
+    "questions_asked": 0
+  },
+  "pqr_criteria": [
+    {
+      "criteria": "Vendor's scope includes Design, Engineering, Supply, Installation, Testing, and Commissioning of a Chiller-Based Air Dehumidification system.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Water Cooled Chillers: 2 units, each with 300 TR capacity.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Chiller Compressor Type must be Screw Compressor.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Chiller refrigerant must be R-134a.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Chiller Evaporator and Condenser must be Shell & Tube type with SS 304 tubes.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower must be designed for a 760 TR refrigeration load.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower type must be Induced Draft with an FRP basin, casing, and louvers.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower must be designed for a Wet Bulb Temperature of 29°C and an outlet temperature of 33°C.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Air Handling Unit (AHU) must have a supply air fan capacity of 53000 CFM.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "AHU must deliver outlet air at 22°C +/- 2°C.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "AHU must deliver outlet air with a relative humidity of 45% +/- 2%.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "AHU cooling coil, casing, tubes, header, and drain pan must be made of SS-304.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Chilled Water and Condenser Water Pump sets must each consist of 3 pumps (2 working, 1 standby) suitable for a 600 TR load.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Pump motors must be IE-3, TEFC, with Class F insulation.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Pump MOC: Casing - Cast Iron, Impeller - SS, Shaft - EN8.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "The electrical power supply is 415V +/- 10%, 50 Hz, 3 Phase, 4 Wire. All equipment must be compatible.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Vendor's electrical scope includes supply of cables, perforated GI cable trays, GI earthing, earthing pits, and lighting for the chiller room.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Vendor's instrumentation scope must include pressure gauges, temperature gauges, water flow switches, an electromagnetic flow meter, temperature transmitters, and a velocity sensor for the AHU outlet.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Vendor must provide an offer for 1 year of Operation and Maintenance services.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "PLC must be from an approved make: Allen Bradley, Honeywell, or Schneider.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Pumps must be from an approved make: KSB, SULZER, KIRLOSKAR, WILO, WILFLEY, or GRUNDFOS.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Manual Valves must be from an approved make: L&T, Weir BDK, HAWA, KSB, Sigma, Intervalve, INTEGRAL PROCESS, or Steel Strong.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Carbon Steel and Stainless Steel pipes must be from the list of specified approved manufacturers.",
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "The project site is located at Plot- K1, Taloja MIDC Road, MH 410208.",
+      "required_documents": [],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Client (MAL) is responsible for obtaining all required permits for the job.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    },
+    {
+      "criteria": "Client (MAL) is responsible for providing power and water at a single point for installation purposes.",
+      "required_documents": [
+        "boq_item"
+      ],
+      "references": [
+        "/Users/vinayak/Downloads/venwiz/auto-client-pqr/RFQ_Docs/RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx"
+      ]
+    }
+  ]
+}

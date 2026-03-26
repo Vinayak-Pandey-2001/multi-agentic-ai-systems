@@ -1,0 +1,698 @@
+{
+  "metadata": {
+    "session_id": "459c61bd",
+    "generation_time": "2026-02-08T18:01:21.927266",
+    "total_criteria": 72,
+    "questions_asked": 0
+  },
+  "pqr_criteria": [
+    {
+      "criteria": "Vendor to submit competent offer for the complete package in the following format: Engineering, Supply, Construction, Erection and Installation, Commissioning & Start-up, Grand Total, Annual O& M Charges.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.8333"
+      ],
+      "required_documents": [
+        "commercial_techno_commercial_quotation"
+      ]
+    },
+    {
+      "criteria": "Chilled Water Pump Set: Quantity: 3 Nos (2 Working + 1 Standby)",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Chilled Water Pump Set: Capacity: Suitable for 600 TR Refrigeration load",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Chilled Water Pump Set: Head: Vendor to Design",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Chilled Water Pump Set: Type: Centrifugal",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Chilled Water Pump Set: Sealing-Mechanical Seal",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Chilled Water Pump Set: Motor: IE-3, TEFC sq. cage induction, class F",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Chilled Water Pump Set: Casing MOC – Cast Iron, Impeller MOC – SS, Shaft – EN8",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Condenser Water Pump Set: Quantity: 3 Nos (2 Working + 1 Standby)",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Condenser Water Pump Set: Capacity: Suitable for 600 TR Refrigeration load",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Condenser Water Pump Set: Head: Vendor to Design",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Condenser Water Pump Set: Type: Centrifugal",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Condenser Water Pump Set: Sealing-Mechanical Seal",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Condenser Water Pump Set: Motor: IE-3, TEFC sq. cage induction, class F",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Condenser Water Pump Set: Casing MOC – Cast Iron, Impeller MOC – SS, Shaft – EN8",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Instruments to be supplied: Pressure gauge, Temperature gauge, Water flow switches for Chilled water & Cooling water.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Engineering Deliverables: Basic & Detailed engineering of overall chiller and AHU package, Overall layout and required footprint, PFD, P&ID and HAZOP, Utility Specification, Utility Requirement: Water, Power & Instrument Air, Equipment Four Line list, Motor list with connected and running load, Valve specification, Duct specifications & Ducting Layout, General arrangement Drawings, Electrical specification: MCC panel, Starter panel for AHU, PLC panel, VFD panels, Electrical Cables (ISBL), Cable Tray, GI Earthing, Specifications of all the instruments, Civil drawings including foundation for all equipment, structural and associated sheds for chiller and AHU unit, Specification and schedule for painting & Insulation.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5000"
+      ],
+      "required_documents": [
+        "product_catalogue"
+      ]
+    },
+    {
+      "criteria": "Spares to be supplied: Commissioning spares and a list of 2 Years maintenance spares.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.4444"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Water Cooled Chillers: Compressor Type: Screw Compressor",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Water Cooled Chillers: Refrigerant -R-134a (First charge of refrigerant and oil)",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Water Cooled Chillers: Shell & Tube evaporator: SS 304 Tubes",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Water Cooled Chillers: Shell & Tube Condenser: SS 304 Tubes, water-cooled type heat exchanger",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Water Cooled Chillers: Designed for 600 TR Refrigeration load (300 TR x 2 No)",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.6667"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower: Quantity of Cells: 1 Nos (working)",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower: Circulation Flow rate – Sufficient for 760 TR refrigeration load",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower: Induced draft, FRP cooling tower with FRP Basin, Casing, and Louvers",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower: PVC Fill and Eliminator with Suitable Axial Fan",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower: Wet Bulb Temperature: 29 Deg. C",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower: Cooling tower outlet temp – 33 deg. c",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Cooling Tower: Fan with VFD",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Chemical Dosing system for the Cooling Tower: 1 No",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): Quantity: 1 Nos (working)",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): Supply Air Fan Capacity: 53000 CFM",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): Outlet Air Temp: 22+/-2 DegC",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): Outlet Air Relative Humidity: 45+/-2%",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): Pre filter section with 10-micron filters",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): Plug fan with VFD",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): PVC droplet eliminators",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): Drain Pan: SS- 304",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): Cooling Coil - SS 304, Coil casing - SS 304, Material of Tube - SS 304, Coil Header – SS 304, Material of Fins - Plain aluminium Fins",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Double Skin Air Handling Units (AHU): TSP: Vendor to design",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Regenerative heat exchanger and ELECTRIC HEATER as a stand by: Vendor to confirm electrical load.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "product_image"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Air manifold, Inst isolation Valves: Shavo Norgren, Wesmec, Precision engineering, Parker, Swagelok, Festo",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Tube (instrumentation): Genetics, Feasto, WESMEC",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Lighting: Bajaj, CGL, Phillips",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for U-clamps: Reputed vendor",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Fastener: Reputed vendor",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Gasket: Perfect, I G P ENGINEERS",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Y strainer: Reputed make",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Balancing Valves: Reputed make",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Rubber bellow: Easyflex/Technocraft/kanwall",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Pipe/Duct Insulation: Armacell / K-Flex",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5909"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for CS, SS Fittings: Navkar Fittings & Forgings, M.S. Fittings, Pipefit, Mico Steel, Nippen Tube",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3333"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for CS, SS Flanges: Jaiambe Forge, Paramount, M.S. Fittings, Pipefit, Mico Steel, Nippen Tube",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3333"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Manual Valves (Ball / Butterfly / globe / gate / NRV): L&T, Weir BDK, HAWA, KSB, Sigma, Intervalve, INTEGRAL PROCESS, Steel Strong",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3333"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Junction Box Die cast Alluminium: Ex- Protecta, Sudhir Switchgear",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3333"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Cable Tray -FRP (peforated & Lader): EPP Composite, Indiana Cable Trays, Sintex Industries, Bravo",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3333"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Air line Accessories: Rotex, ShavoNorgen, Janatics",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3333"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Local Control/ PushButton Station: Pushtron, Indian, FLEXPRO ELECTRICALS",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3333"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Cable Lugs & Glands: Ex- Protecta, Sudhir Switchgear, Comet, Baliga, Braco",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3333"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Approved Makes for Cable: Polycab, KEC, KEI, UCL, RPG",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5000"
+      ],
+      "required_documents": [
+        "technical_quotation",
+        "drawing",
+        "specification"
+      ]
+    },
+    {
+      "criteria": "Battery Limits - Power: 415 Volts +/- 10%, 50 Hz, 3 Phase, 4 Wire, power supply at the incoming terminal of following panels: a) Capital equipment panel b) AHU Starter Panel. MAL to provide power supply till above panels.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "boq_item"
+      ]
+    },
+    {
+      "criteria": "Battery Limits - Make Up Water: MAL to provide the make-up water supply within 10 RMT from respective equipment.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "boq_item"
+      ]
+    },
+    {
+      "criteria": "Battery Limits - Cooling Tower Blowdown: 10 RMT from tapping at circulation pump discharge pipe.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "boq_item"
+      ]
+    },
+    {
+      "criteria": "Battery Limits - Drain Water termination: Within 15 RMT radial distance from AHU.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.7500"
+      ],
+      "required_documents": [
+        "boq_item"
+      ]
+    },
+    {
+      "criteria": "Scope of Work: Design, Engineering, Supply, Installation, Testing, and commissioning of Chiller-Based Air Dehumidification system with for ANP plant.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.6667"
+      ],
+      "required_documents": [
+        "boq_item"
+      ]
+    },
+    {
+      "criteria": "Design Basis - Outlet air temperature from AHU: 22 Deg C+/- 2 Deg C",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3500"
+      ],
+      "required_documents": [
+        "product_catalogue"
+      ]
+    },
+    {
+      "criteria": "Design Basis - Outlet air relative humidity from AHU: 45% +/- 2%",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3500"
+      ],
+      "required_documents": [
+        "product_catalogue"
+      ]
+    },
+    {
+      "criteria": "Design Basis - Refrigeration Capacity: 530 TR",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.3500"
+      ],
+      "required_documents": [
+        "product_catalogue"
+      ]
+    },
+    {
+      "criteria": "Equipment Design Load: AHU, Cooling Tower, Chilled water main Supply & Return header from Chiller to AHU, Cooling water main Supply & Return header from CT to Chiller shall be designed for 760 TR Refrigeration load.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.6667"
+      ],
+      "required_documents": [
+        "product_catalogue"
+      ]
+    },
+    {
+      "criteria": "Equipment Design Load: Water chillers (300 TR x 2 No), Chilled water Pumps (2W+1S), Cooling Tower pumps (2W+1S) shall be designed for 600 TR Refrigeration load.",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.6667"
+      ],
+      "required_documents": [
+        "product_catalogue"
+      ]
+    },
+    {
+      "criteria": "All required permit for carrying jobs in ANP/LDAN bagging plant. (Responsibility of MAL/Client)",
+      "references": [
+        "Source: RFQ water cooled Chiller Package for HVAC Revised Sept 2025.docx, Score: 0.5000"
+      ],
+      "required_documents": [
+        "license_copy",
+        "pan",
+        "gst_registration"
+      ]
+    }
+  ]
+}

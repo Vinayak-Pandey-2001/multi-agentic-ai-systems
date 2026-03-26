@@ -19,9 +19,9 @@ from typing import List, Optional, Literal
 from google.genai import types as genai_types
 
 
-# ============================================
+
 # Configuration for JSON response generation
-# ============================================
+
 json_response_config = genai_types.GenerateContentConfig(
     response_mime_type="application/json"
 )
@@ -56,9 +56,9 @@ force_function_calling_config = genai_types.GenerateContentConfig(
 )
 
 
-# ============================================
+
 # Document Type Definition
-# ============================================
+
 # All possible document types that can be required for PQR validation
 DOCUMENT_TYPES = Literal[
     "asset_ownership",
@@ -95,9 +95,9 @@ DOCUMENT_TYPES = Literal[
 ]
 
 
-# ============================================
+
 # RFQ Analysis Models
-# ============================================
+
 class RFQSection(BaseModel):
     """A section identified in the RFQ document"""
     section_name: str = Field(description="Name of the section (e.g., 'Eligibility Criteria', 'Technical Requirements')")
@@ -115,9 +115,9 @@ class DocumentAnalysisResult(BaseModel):
     total_sections: int = Field(description="Total number of sections to analyze")
 
 
-# ============================================
+
 # Information Extraction Models
-# ============================================
+
 class ResearchQuestion(BaseModel):
     """A question to be asked to the vector database"""
     question: str = Field(description="The question to ask")
@@ -169,9 +169,9 @@ class ExtractionProgress(BaseModel):
     )
 
 
-# ============================================
+
 # PQR Output Models (Final Schema)
-# ============================================
+
 class PQRCriterion(BaseModel):
     """Single PQR criterion - matches user's required schema"""
     criteria: str = Field(description="Description of the criterion")
@@ -205,9 +205,9 @@ class PQROutput(BaseModel):
     extraction_summary: str = Field(description="Summary of the extraction process")
 
 
-# ============================================
+
 # Workflow State Models
-# ============================================
+
 class WorkflowProgress(BaseModel):
     """Current workflow progress snapshot"""
     current_step: str = Field(description="Current step name")

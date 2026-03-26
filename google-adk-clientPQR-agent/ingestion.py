@@ -58,14 +58,14 @@ def setup_collection():
             }
         )
 
-        # ✅ Create text index for filtering
+        # Create text index for filtering
         client.create_payload_index(
             collection_name=COLLECTION_NAME,
             field_name="text",
             field_schema=models.TextIndexParams(type="text")
         )
         
-        print(f"✅ Collection '{COLLECTION_NAME}' created with hybrid search support")
+        print(f"Collection '{COLLECTION_NAME}' created with hybrid search support")
     else:
         # Optional safety: ensure index exists even if collection already existed
         try:
@@ -253,11 +253,11 @@ Respond in 2 concise sentences.
         ))
     
     if not points:
-        print(f"⚠️ No text chunks found in {file_path}. Skipping ingestion.")
+        print(f"No text chunks found in {file_path}. Skipping ingestion.")
         return
     
     client.upsert(collection_name=COLLECTION_NAME, points=points)
-    print(f"✅ Ingested {len(points)} chunks from {Path(file_path).name}")
+    print(f"Ingested {len(points)} chunks from {Path(file_path).name}")
 
 def is_file_already_ingested(file_path: str) -> bool:
     if not client.collection_exists(COLLECTION_NAME):
@@ -326,7 +326,7 @@ def ingest_folder(folder_path: str):
             all_texts.append(chunk.text)
     
     if not all_texts:
-        print("⚠️ No new documents to ingest")
+        print("No new documents to ingest")
         return
     
     # Build vocabulary and calculate IDF
@@ -352,9 +352,8 @@ def reset_collection():
     print(f"✨ Recreating collection: {COLLECTION_NAME}")
     setup_collection()
 
-# ============================================================
+
 # HYBRID SEARCH FUNCTION
-# ============================================================
 
 def hybrid_search(
     query: str,
@@ -391,7 +390,7 @@ def hybrid_search(
     )
     
     if use_rrf:
-        # Use Reciprocal Rank Fusion (RRF) - recommended approach
+        # Use Reciprocal Rank Fusion (RRF)
         result = client.query_points(
             collection_name=COLLECTION_NAME,
             prefetch=[

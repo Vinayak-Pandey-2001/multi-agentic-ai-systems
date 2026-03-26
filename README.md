@@ -1,4 +1,4 @@
-A Beginner's Guide to Multi-Agent RAG Systems: The RFQ to PQR Workflow
+Multi-Agent RAG Systems: The RFQ to PQR Workflow
 Welcome! If you are a new graduate or beginner diving into the world of AI, Large Language Models (LLMs), and Agentic Systems, you are in the right place.
 
 This guide will walk you step-by-step through a real-world enterprise application: extracting Pre-Qualifying Requirements (PQR) from highly complex Request for Quotation (RFQ) documents using a Multi-Agent Retrieval-Augmented Generation (RAG) system.
